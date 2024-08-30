@@ -1,0 +1,6 @@
+[package]
+name = "order_of_element_in_direct_product_multiplicativegroups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
